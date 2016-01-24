@@ -7,15 +7,17 @@
 #include <stdlib.h>
 #include <time.h>
 
-int rand() {
-    //return time;
+int _rand(int n) {
+    return rand() % n;
 }
 
 int main() {
     LOOP:
     //rand
-    //name.sav
     //sleep
+    //check if there is any input
+    //user input.....
+    //save file
     goto LOOP;
     return 0;
 }
