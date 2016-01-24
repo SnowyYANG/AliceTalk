@@ -27,5 +27,9 @@ int rand() {
 }
 
 int main() {
+    LOOP:
+    //rand
+    //sleep
+    goto LOOP;
     return 0;
 }
