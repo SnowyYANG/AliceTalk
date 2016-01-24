@@ -29,6 +29,7 @@ int rand() {
 int main() {
     LOOP:
     //rand
+    //name.sav
     //sleep
     goto LOOP;
     return 0;
