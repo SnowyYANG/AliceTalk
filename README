@@ -13,7 +13,12 @@
 实际上应该根据实际需求定一个合适的循环次数。
 
 实现
-AliceTalk.html
+AliceTalk.xlsx
+/*
+现在这个世界好像和我记忆中的有点不一样
+AliceTalk.c  因为gcc变得和我记忆中不同的样子暂停实现
+AliceTalk.html 因浏览器而异的东西果然还是太可怕了
+*/
 
 参考文献
 『地獄少女』, etc.
