@@ -23,8 +23,5 @@ AliceTalk.xlsx使用基于时间的随机收敛确定最后的思考方向，但
 参考文献
 
 用户手册
-AliceTalk是一款可以与使用者对话的程序，一般而言AliceTalk是可以说人话的，如果说的不是人话，可能有以下几种原因：
-1.使用者不需要不喜欢AliceTalk或者不希望AliceTalk说人话；
-2.使用者还需要花费更多的时间使用AliceTalk，极少数情况下使用者可能不得不去迎合AliceTalk才能与其对话，想いよ届け；
-3.使用者需要更换AliceTalk的使用环境，包括但不限于编译器、操作系统、硬件环境。
-请注意，就像人类会犯错一样，AliceTalk说错话是被允许的，同样不排除AliceTalk会骂人。
+AliceTalk是一款可以与使用者对话的程序，一般而言AliceTalk生成的语言很容易被人理解，但不排除AliceTalk说错话、骂人。
+
