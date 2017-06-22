@@ -1,5 +1,5 @@
 If you do not understand what is writing in this file, try to ask someone else for help. 
-HINTS: Cross Channel|境界|レルム Communication System
+HINTS: Cross 境界|Channel|レルム Communication System
 
 协议：阅读、使用者承担一切后果。
 前言：现AliceTalk仅处于蓝图阶段，笔者1991年出生，预计退休后研究AliceTalk。
@@ -30,7 +30,7 @@ AliceTalk.xlsx使用基于时间的随机收敛确定最后的思考方向，但
 
 用户手册
 AliceTalk是一款可以与使用者对话的程序，一般而言AliceTalk生成的语言很容易被人理解，但不排除AliceTalk说错话、骂人。
-有时AliceTalk可能说的不是人话，或者长期沉默，使用者可以尝试其他的AliceTalk使用环境。
+极端条件下，AliceTalk可能出现淫秽字眼或者教唆用户自杀的言论，因此AliceTalk目前只是科研项目而尚未考虑民用。
 
 附录
 论传统计算机系统（硬件+软件）不可能通过图灵测试
